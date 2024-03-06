@@ -1,0 +1,124 @@
+@charset "utf-8";
+<!--estilos css3-->
+
+body {
+    font-family: garamond;
+    padding: 1em;
+	background-color:rgb(0,0,0);
+	
+}
+
+    .Box_Principal {
+        width: 1366px;
+	    height: 720px;
+	    padding: 3%;
+        margin: 1em;
+        box-sizing: border-box;
+        color:rgb(153,0,255);
+	    position:static;
+	    border: 1px;
+	    background-color: black;
+       }
+
+        #titulo {
+             text-align: center;
+             font-size: 24px;
+	         background-color: #000000;
+	         font-family: Garamond;
+	         color: #C60;
+			 border-left-width: 0px;
+             border-top-width: 0px;
+			 margin-left: 30px;
+             border-left-style: solid;
+             padding-left: 0px;
+             margin-right: 0px;
+             border-right-width: 0px;
+             border-right-style: solid;
+             padding-right: 0px;
+             border-top-style: solid;
+			 width: 1300px;
+             height: 70.917px 
+			     
+           }
+		   
+		   #tv{
+			   margin-left:6px;
+			   margin-top: -16px;
+			   width: 1366px;
+			   height:310px;
+			   }
+
+     .Bienvenido {
+        background-color: #00F;
+        width: 410px;
+        height: 351px;
+        float: left;
+	    border-left-style: solid;
+	    border-left-width: 0px;
+        margin-left: 30px;
+        border-top-width: 0px;
+        border-top-style: solid;
+        margin-top: 309px;
+       
+        }
+		
+	.sin-puntos {
+    list-style-type: none;
+     }
+		   #service{
+			  background-color:white; 
+		      color:rgb(51,153,255);
+			  text-align:left;
+			  cursor: pointer;
+		   }
+
+
+   .contenido {
+         color: white;
+         text-align: left;
+         text-justify: distribute;
+         background-color: #669f09;
+         float: right;
+	     margin-left: 0px;
+         border-left-width: 0px;
+         border-left-style: solid;
+         padding-left: 21px;
+         padding-right: 21px;
+         padding-bottom: 21px;
+         padding-top: 21px;
+         margin-top: 310px;
+         height: 310px;
+         width: 845px;
+         }
+        
+ 
+                
+
+    .foot{
+	    width: 1318px;
+	    padding: 3%;
+        margin: 1em;
+        box-sizing: border-box;
+        color:rgb(153,0,255);
+	    position:static;
+	    border: 1px;
+	    background-color: black;
+		padding-top: 3px;
+        margin-top: 42em;
+        padding-bottom: 1%;
+        padding-left: 375px;
+	     }
+
+.img-fluid{
+	width:320px;
+	height:360px;}
+	
+.img-fluid2{
+	
+	width: 1200px;
+    height: 351px;
+	}
+	
+h1{
+	color:rgb(255,255,255);
+	background-color:rgb(0,204,0);}	
